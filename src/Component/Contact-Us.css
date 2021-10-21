@@ -1,0 +1,10 @@
+.Contact-Us {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.people {
+    display: flex;
+    flex-direction: row;
+}
+
