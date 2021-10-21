@@ -1,10 +1,128 @@
 .Contact-Us {
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+   justify-content: space-around;
+  
+}
+.text-11 {
+    font-family: Inter;
+font-style: normal;
+font-weight: 700;
+margin-left: 14%;
+font-size: 130%;
+line-height: 150%;
+/* identical to box height, or 48px */
+
+
+/* Brand Light Blue */
+
+color: #1F6473;
 }
 .people {
     display: flex;
     flex-direction: row;
+ align-items: center;
+ margin-bottom: 10px;
+  justify-content: space-between;
 }
+.Image {
+    border-radius: 100%;
+    height: 45px;
+    width: 45px;
+}
+.people-text-1 {
+    font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 80%;
+margin-bottom: 0px;
+line-height: 18px;
 
+
+/* Black 2 */
+
+color: #474747;
+
+}
+.people-text {
+    margin-left: 15px;
+}
+.people-text-2 {
+    margin-bottom: 0px;
+    font-family: Inter;
+font-style: normal;
+font-weight: 400;
+font-size: 80%;
+
+line-height: 18px;
+
+/* Black 2 */
+
+color: #474747;
+
+}
+.Name  {
+  
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 80%;
+width: 170%;
+height: 30px;
+
+background-color: #F4F4F4;
+/* identical to box height, or 30px */
+
+
+
+/* Black 3 */
+
+color: #6D6D6D;
+
+/* Black 3 */
+
+color: #6D6D6D;
+border: none; 
+padding-left: 5%;
+}
+.Message {
+    font-family: Inter;
+    padding-left: 5%;
+   
+font-style: normal;
+font-weight: normal;
+font-size: 80%;
+width: 170%;
+height: 90px;
+border: none;
+
+background-color: #F4F4F4;
+/* identical to box height, or 30px */
+
+
+
+/* Black 3 */
+
+color: #6D6D6D;
+
+/* Black 3 */
+
+color: #6D6D6D;
+}
+.Button {
+    background: #1F6473;
+border-radius: 4%;
+padding: 3%;
+font-family: Inter;
+font-style: normal;
+font-weight: 300;
+font-size: 70%;
+line-height: 150%;
+/* identical to box height, or 24px */
+border: none;
+text-align: center;
+
+/* White */
+
+color: #FFFFFF;
+}
